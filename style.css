@@ -20,10 +20,10 @@ body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(
         135deg,
-        #9df36e 0%,
-        #49ee70 15%,
-        #24e75b 35%,
-        #0cc206 50%,
+        #42a70c 0%,
+        #11d73f 15%,
+        #37f26c 35%,
+        #3ee139 50%,
         #00e3fc 70%,
         #00d9ff 85%,
         #00a6ff 100%
@@ -727,4 +727,5 @@ button[type="submit"] {
     .logo {
         font-size: 22px;
     }
+
 }
