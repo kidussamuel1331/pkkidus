@@ -1,11 +1,4 @@
 @charset "utf-8";
-/*
-
-TemplateMo 592 glossy touch
-
-https://templatemo.com/tm-592-glossy-touch
-
-*/
 
 * {
     margin: 0;
@@ -20,13 +13,9 @@ body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(
         135deg,
-        #42a70c 0%,
-        #11d73f 15%,
-        #37f26c 35%,
-        #3ee139 50%,
-        #00e3fc 70%,
-        #00d9ff 85%,
-        #00a6ff 100%
+        #FF0000 70%,
+        #ED1111 85%,
+        #000000 100%
     );
     min-height: 100vh;
     overflow-x: hidden;
@@ -729,3 +718,4 @@ button[type="submit"] {
     }
 
 }
+
