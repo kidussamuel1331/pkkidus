@@ -13,7 +13,7 @@ body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(
         135deg,
-        #FF0000 70%,
+        
         #000000 100%
     );
     min-height: 100vh;
@@ -719,6 +719,7 @@ button[type="submit"] {
     }
 
 }
+
 
 
 
