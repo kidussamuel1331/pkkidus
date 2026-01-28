@@ -14,7 +14,6 @@ body {
     background: linear-gradient(
         135deg,
         #FF0000 70%,
-        #ED1111 85%,
         #000000 100%
     );
     min-height: 100vh;
@@ -718,4 +717,5 @@ button[type="submit"] {
     }
 
 }
+
 
