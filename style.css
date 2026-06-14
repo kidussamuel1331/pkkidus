@@ -10,12 +10,8 @@
     }
 }
 body {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(
-        135deg,
-        
-        #000000 100%
-    );
+    font-family: "Segoe UI", Tahoma, Geneva, ;
+    background: red;
     min-height: 100vh;
     overflow-x: hidden;
 }
